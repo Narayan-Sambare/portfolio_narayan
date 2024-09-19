@@ -1,0 +1,16 @@
+.hov:hover{
+    background: #8cf7c3 !important ;
+    border: 2px solid rgb(0, 0, 0);
+    
+}
+
+.bdr{
+    border-bottom: 1px#28e98c solid !important;
+}
+
+.bdr:hover{
+    background: #000000 !important;
+    color: rgb(255, 255, 255) !important;
+    border-radius:5px;
+
+}
